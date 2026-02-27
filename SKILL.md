@@ -55,6 +55,7 @@ For product selection and offer framing:
 - Generate 3 candidate angles, then select 1 winner
 
 Read [references/platforms.md](references/platforms.md) for platform-specific product and content angles.
+For vertical-specific offer angles and output packs, read [references/verticals.md](references/verticals.md).
 
 ### 3. Generate copy assets
 
@@ -67,6 +68,7 @@ Always generate from one source brief, then adapt into:
 - Chat reply templates
 
 Read [references/templates.md](references/templates.md) for reusable copy patterns.
+For a full example of one end-to-end run, read [references/example-run.md](references/example-run.md).
 
 ### 4. Browser execution
 
@@ -123,3 +125,14 @@ A standard run should return:
 - Suggested browser actions
 - Publish blockers
 - KPI checklist for the next review
+
+## Recommended Output Format
+
+Return results in this order:
+
+1. Offer decision
+2. Platform plan
+3. Copy pack
+4. Browser-ready fields
+5. Risks and blockers
+6. KPI checklist
