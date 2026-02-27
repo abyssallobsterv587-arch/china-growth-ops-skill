@@ -141,3 +141,7 @@ Return results in this order:
 For publish preparation and review, use:
 - [references/publish-checklists.md](references/publish-checklists.md)
 - [references/daily-review.md](references/daily-review.md)
+
+For service packaging and client delivery, use:
+- [references/service-packages.md](references/service-packages.md)
+- [references/client-delivery.md](references/client-delivery.md)
